@@ -1,4 +1,5 @@
 👋 Hi, I’m @darkp435!
+I could code in HTML, CSS, JavaScript and Python, though I'm a beginner. 
 
 
 
